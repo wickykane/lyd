@@ -9,3 +9,55 @@ License: GNU General Public License
 License URI: https://themeforest.net/licenses/regular_extended
 Text Domain: avante
 */
+
+/* WK Add New Style */
+
+:root {
+  --green: #55cd08;
+  --white: #ffffff;
+  --black: #000;
+  --darkblue: #002f48;
+}
+
+.home-header-form {
+  display: flex;
+  flex-wrap: wrap;
+}
+.home-header-form label {
+  flex: 0 0 50%;
+  padding-right: 1rem;
+  margin-bottom: 1.5rem;
+}
+.home-header-form label input {
+  border: none;
+  font-size: 12px;
+  border-radius: 0 !important;
+  border-bottom: 1px solid var(--darkblue);
+  padding: 5px;
+  color: var(--darkblue);
+  letter-spacing: 1px;
+}
+.home-header-form .wpcf7-not-valid-tip {
+  font-size: 12px;
+}
+.home-header-form + .wpcf7-response-output {
+  display: none;
+}
+.home-header-form .wpcf7-submit {
+  background-color: var(--green);
+  border-color: var(--green);
+  font-size: 1rem;
+  padding: 2px 20px;
+  font-weight: normal;
+}
+.lyd-header-form {
+  position: relative;
+}
+.lyd-header-form-triangle {
+  position: absolute !important;
+  bottom: 0 !important;
+  left: -100px !important;
+  width: 2rem !important;
+  left: -25px !important;
+  bottom: 25px !important;
+}

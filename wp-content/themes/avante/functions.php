@@ -371,6 +371,8 @@ function avante_enqueue_front_page_scripts()
 	    wp_enqueue_style('avante-demo', get_template_directory_uri().'/css/core/demo.css', false, '', 'all');
 	}
 	
+	wp_enqueue_style('avante-childtheme', get_stylesheet_directory_uri().'/style.css', false, '', 'all');
+	
 	//If using child theme
 	if(is_child_theme())
 	{
