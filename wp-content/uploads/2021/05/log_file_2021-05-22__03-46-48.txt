@@ -1,0 +1,163 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://localhost:10008
+Data file = /Users/wicky/Local Sites/lyd/app/public/wp-content/uploads/2021/05/demo-1.xml
+Widget file = /Users/wicky/Local Sites/lyd/app/public/wp-content/uploads/2021/05/demo-2.wie
+Customizer file = /Users/wicky/Local Sites/lyd/app/public/wp-content/uploads/2021/05/demo-2.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+---Importing widgets---
+Page Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Shop Sidebar : 
+
+Product Categories - Product categories - Widget already exists
+Product Tag Cloud - Product tags - Widget already exists
+Products by Rating - Top rated products - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
