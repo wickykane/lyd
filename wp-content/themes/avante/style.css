@@ -61,3 +61,27 @@ Text Domain: avante
   left: -25px !important;
   bottom: 25px !important;
 }
+
+.stratum-swiper-button-prev:before,
+.stratum-swiper-button-next:after {
+  border-radius: 50% !important;
+}
+
+.lyd-testotials .stratum-testimonial-carousel__container-inner {
+  display: flex;
+  align-items: center;
+}
+.lyd-testotials .stratum-testimonial-carousel__footer {
+  flex: 2;
+}
+.lyd-testotials .stratum-testimonial-carousel__footer img {
+  width: 250px !important;
+  height: 250px !important;
+}
+.lyd-testotials .stratum-testimonial-carousel__content {
+  flex: 3;
+  align-self: stretch;
+}
+.lyd-counter-section .elementor-counter-title {
+  text-align: left !important;
+}
