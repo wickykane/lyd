@@ -70,13 +70,15 @@ Text Domain: avante
 .lyd-testotials .stratum-testimonial-carousel__container-inner {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
 }
 .lyd-testotials .stratum-testimonial-carousel__footer {
-  flex: 2;
+  margin-right: 2rem;
+  flex: 0 0 220px;
 }
 .lyd-testotials .stratum-testimonial-carousel__footer img {
-  width: 250px !important;
-  height: 250px !important;
+  width: 220px !important;
+  height: 220px !important;
 }
 .lyd-testotials .stratum-testimonial-carousel__content {
   flex: 3;
